@@ -8,7 +8,7 @@ import { Add, Remove } from "@mui/icons-material"
 
 
 const UserContainer = styled(Box)({
-
+    width : '100vw'
 })
 
 const UserWrapper = styled(Box)({
